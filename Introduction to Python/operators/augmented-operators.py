@@ -1,4 +1,4 @@
-# augemented arithmetic operations
+# augmented assignment operations
 
 # addition
 x = 10
