@@ -1,4 +1,4 @@
-# variables are used to hold different data types as shown below
+# exercises are used to hold different data types as shown below
 
 # 1. Numeric Types
 #int: integer
